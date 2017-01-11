@@ -8,5 +8,4 @@ savings.withdraw(10);
 savings.withdraw(10);
 savings.withdraw(10);
 savings.withdraw(10);
-savings.withdraw(10);
 savings.checkBalance();
